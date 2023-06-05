@@ -1,0 +1,13 @@
+ul {
+  list-style: none;
+}
+body {
+  padding: 7px 15px;
+}
+.btn {
+  background-color: #008cba;
+  color: aliceblue;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding: 7px 15px;
+}
