@@ -5,7 +5,7 @@ This is a Todo app made as an excercise for BeCode.
 
 ## Tech Stack
 
-**Client:** React, Javascript, CSS, HTML
+**Client:** React, Tailwind, Javascript, CSS, HTML
 
 **Server:** Node, Express
 
